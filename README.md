@@ -5,3 +5,5 @@ Esse repositório é utilizado como exemplo de merge para aula de Git "Criando B
 Nesse repo temos duas branchs, a `main` e a `aluno/feature1`. Na `main` encontramos o projeto em sua versão estável, onde tudo é pra estar funcionando. Na branch `aluno/feature1` é onde nosso aluno está desenvolvendo seus exercicios e seus códigos.
 
 Para treinar seu objetivo é realizar o merge da branch `aluno/feature1` com a `main`
+
+Essa é uma alteração no README feito pela branch `aluno/feature1`
